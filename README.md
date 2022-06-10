@@ -1,5 +1,5 @@
 # pokedexAPI  <img width="200" heigth="250" src="https://c.tenor.com/70U9gr6CUB4AAAAC/pikachu-pokemon.gif">
-## Projeto Que consume 2 Apis Relacionadas a Pokemons👈
+## Projeto Que consume 2 Apis Relacionadas a Pokemons 👈
 
 ## Click para ver: <a href='https://joaogabrielz.github.io/pokedexAPI'>Deploy</a> 
 
